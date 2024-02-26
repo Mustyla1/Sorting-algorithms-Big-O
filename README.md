@@ -1,1 +1,5 @@
-# Sorting-algorithms-Big-O
+Sorting-algorithms-Big-O
+
+Done By:
+
+Lawal Mustapha Oluwatobi
